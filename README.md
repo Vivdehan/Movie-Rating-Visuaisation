@@ -4,3 +4,4 @@ In this project we’ll visualize the dataset of 500 Companies and based on our 
 We’ll also want to investigate the potential threats that we're faced with, when we prepare data and in this project, we're going to see a lot about locating missing data and how to find it, how to replace missing out what to do about it.
 
 We also have a few methods of placing missing data. one of the more advanced methods will be the main method i.e the median imputation method is a very powerful technique that is used in our programming for different types of analytics
+The end of the Pdf contains the R code to perform the operation.
